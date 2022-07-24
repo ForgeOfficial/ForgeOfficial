@@ -1,4 +1,4 @@
-[![banner](https://cdn.discordapp.com/banners/935434990827757578/a_c8d434123c497084ced90520dbd808ee.gif?size=600)]()
+[![banner](https://cdn.discordapp.com/banners/935434990827757578/a_c8d434123c497084ced90520dbd808ee.png?size=600)]()
 
 # ![hey](hey_sized.gif) Hey, welcome to my page !  
 
