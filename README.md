@@ -7,7 +7,7 @@ My name is Forge, I'm a french developer. Currently using [Jetbrains](https://ww
 - High-Level ([C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com/), [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript))
 
 # Where to find me ?
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=Forge%234746&color=7289DA&logo=Discord&style=for-the-badge)](#)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=%3EForge%230858&color=7289DA&logo=Discord&style=for-the-badge)](#)
 
 # Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ForgeOfficial&layout=compact)
