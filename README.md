@@ -1,6 +1,6 @@
 # ![hey](hey_sized.gif) Hey, welcome to my page !  
 
-My name is Forge, I'm a french developer. Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on [Windows](https://www.microsoft.com/en-us/windows). 
+My name is Maxime, I'm a french developer. Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on [Windows](https://www.microsoft.com/en-us/windows). 
 
 # What main language am I using ? 
 - [Vue.js](https://vuejs.org/) / [Angular](https://angular.io/) ([HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [TypeScript](https://www.typescriptlang.org/))
