@@ -7,7 +7,7 @@ My name is Maxime, I'm a french developer. Currently using [Jetbrains](https://w
 - High-Level ([C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com/), [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript))
 
 # Where to find me ?
-[Discord - ForgeOff](discord://-/users/424317025712603140)
+[Discord - ForgeOff](http://discord://-/users/424317025712603140)
 
 # Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ForgeOfficial&layout=compact)
