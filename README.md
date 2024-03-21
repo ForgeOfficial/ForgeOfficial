@@ -10,5 +10,5 @@ My name is Maxime, I'm a french developer. Currently using [Jetbrains](https://w
 Discord - ForgeOff
 
 # Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ForgeOfficial&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ForgeOfficial&layout=compact&theme=radical)
 
